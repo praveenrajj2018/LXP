@@ -1,0 +1,47 @@
+{
+  "statusCode": 200,
+  "message": "Success",
+  "data": [
+    {
+      "courseId": "6d87be06-8315-4fb8-9dcb-c588c20ad4be",
+      "courseTitle": "HTML",
+      "courseIsActive": true,
+      "topics": [
+        {
+          "topicName": "dfvs",
+          "topicDescription": "sd",
+          "topicId": "05e5f976-7198-43ca-9b0d-5a692874246f",
+          "topicIsActive": true,
+          "materials": [
+            {
+              "materialId": "701cd139-a70a-4068-b216-6c907ced3afd",
+              "materialName": "d",
+              "materialType": "PDF",
+              "materialDuration": 5
+            },
+            {
+              "materialId": "e3a667db-21cc-4bd3-9040-567430f8e62b",
+              "materialName": "f",
+              "materialType": "AUDIO",
+              "materialDuration": 5
+            }
+          ]
+        },
+        {
+          "topicName": "htl",
+          "topicDescription": "dvc",
+          "topicId": "6d87be06-8315-4fb8-9dcb-c588c20ad4be",
+          "topicIsActive": true,
+          "materials": [
+            {
+              "materialId": "4da6ee07-e71a-4",
+              "materialName": "g",
+              "materialType": "VIDEO",
+              "materialDuration": 10
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
